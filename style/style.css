@@ -28,13 +28,20 @@ footer{
 }
 
 .regtangle{
+    position: relative;
     width: 100%;
     height: 70px;
     background-color: #fff;
 }
 
 .logo{
-    margin-top: 15px;
-    margin-left: 10.42%;
-    vertical-align: middle;
+    position: absolute;
+    top: 15px;
+    left: 10.42%;
+}
+
+.logoName{
+    position: absolute;
+    left: 14%;
+    top: 28.33px;
 }
