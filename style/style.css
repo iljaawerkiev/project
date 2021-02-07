@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    width: 100%;
+    height: 1343px; 
+    
+}
+
+header{
+    margin: auto;
+    width: 100%;
+    height: 67%;
+    background-color: rgb(187, 187, 184);
+}
+
+footer{
+    margin: auto;
+    width: 100%;
+    height: 33%;
+    background-color: rgb(132, 184, 127); 
+}
